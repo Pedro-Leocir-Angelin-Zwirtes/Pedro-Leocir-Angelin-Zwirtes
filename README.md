@@ -1,5 +1,5 @@
 <h1>Olá Devs, me chamo <span style="color:#458C78;">Pedro Leocir Angelin Zwirtes !</span></h1>
-## Bem vindo ao meu perfil GitHub 👋
+<h2>Bem vindo ao meu perfil GitHub 👋</h2>
 
 - Tentando ser melhor 🕷️
 - Um gosto a mais pelo Back-End haha 💻
@@ -14,13 +14,12 @@
 </div>
   
 ## Skills:
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="">
-<img src="[https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)">
-<img src="https">
-  
-<img src="">
-  
- <img src="">
+
+<div>
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Leocir-Angelin-Zwirtes&theme=vue-dark&show_icons=true)
