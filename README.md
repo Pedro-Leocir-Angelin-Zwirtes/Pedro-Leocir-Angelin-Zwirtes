@@ -18,7 +18,7 @@
 
 <div>
   <a target="_blank" href="https://instagram.com/pedro_leocir">
-    <img src="https://i.pinimg.com/736x/94/39/bc/9439bc567017a354d69176141d9d6354.jpg">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a target="_blank" href="https://www.linkedin.com/in/pedro-leocir-bba80418b/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
