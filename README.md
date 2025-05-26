@@ -1,10 +1,15 @@
-<h1 align="center">Olá Devs 👋, me chamo <span style="color:#458C78;">Pedro Leocir Angelin Zwirtes!</span></h1>
+# Olá, pessoal! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-<p align="center">
-  <img src="https://i.pinimg.com/736x/6d/75/1f/6d751f35a3548a66eda64457b68dbb2d.jpg" width="100%">
-</p>
+Meu nome é Pedro Leocir, sou desenvolvedor Back-end trilhando um novo caminho para aprender Front-end
 
-<h3 align="center">Desenvolvedor focado em Back-End, começando minha jornada no Front-End com React 💻🚀</h3>
+## 🔧 Tecnologias e Ferramentas
+![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&labelColor=333333&logo=python&logoColor=white&color=E4405F)
+![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&labelColor=333333&logo=django&logoColor=white&color=25D366)
+![](https://img.shields.io/badge/django--rest--framework-3.12.4-blue?style=for-the-badge&labelColor=333333&logo=django&logoColor=white&color=0A66C2)
+![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&labelColor=333333&logo=Flask&logoColor=white&color=E4405F)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=333333&logo=css3&logoColor=white&color=25D366)
+![](https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&labelColor=333333&logo=react&logoColor=white&color=0A66C2)
+![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&labelColor=333333&logo=vuedotjs&logoColor=white&color=E4405F)
 
 ## 🚀 Sobre mim
 
@@ -16,25 +21,16 @@
 
 ## 📬 Contato
 
-<div>
-  <a target="_blank" href="https://instagram.com/pedro_zwirtes"">
-    <img src="https://skillicons.dev/icons?i=instagram,linkedin,)](https://skillicons.dev)">
-  </a>
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-pedro__zwirtes-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=333333)](https://instagram.com/pedro_zwirtes)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=333333)](https://wa.me/54999032834)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil_Profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=333333)](https://www.linkedin.com/in/pedro-leocir-angelin-zwirtes-bba80418b/)
 
-## 🛠️ Skills
-
-### Principais:
-<div>
-  <img src="https://skillicons.dev/icons?i=django,python,fastapi)](https://skillicons.dev)">
-</div>
-
-### Secundarias:
-<div>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vue,flutter)](https://skillicons.dev)">
-</div>
-
----
+## ✨ Projetos em Destaque
+[![API de Agricultura](https://img.shields.io/badge/Projeto-API_de_Agricultura-25D366?style=for-the-badge&labelColor=333333)](https://github.com/Pedro-Leocir-Angelin-Zwirtes/api-agricultura-django)
+[![API de Manicure](https://img.shields.io/badge/Projeto-API_de_Manicure-E4405F?style=for-the-badge&labelColor=333333)](https://github.com/Pedro-Leocir-Angelin-Zwirtes/api-manicure)<br>
+[![API de Farmácia](https://img.shields.io/badge/Projeto-API_de_Farmácia-blue?style=for-the-badge&labelColor=333333)](https://github.com/Pedro-Leocir-Angelin-Zwirtes/api-farmacia)
+[![API para Clínica](https://img.shields.io/badge/Projeto-API_para_Clínica-25D366?style=for-the-badge&labelColor=333333)](https://github.com/Pedro-Leocir-Angelin-Zwirtes/api-clinica)<br>
+[![Em breve](https://img.shields.io/badge/Em_breve-Projetos_com_React-blue?style=for-the-badge&labelColor=333333)](#)
 
 ## 📊 GitHub Stats
 
@@ -42,13 +38,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro-Leocir-Angelin-Zwirtes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Leocir-Angelin-Zwirtes&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
----
-
-## ✨ Projetos em Destaque
-- [🔗 API de Manicure](https://github.com/Pedro-Leocir-Angelin-Zwirtes/api-manicure)
-- [🔗 API de Farmácia](https://github.com/Pedro-Leocir-Angelin-Zwirtes/api-farmacia)
-- [🔗 API para Clínica](https://github.com/Pedro-Leocir-Angelin-Zwirtes/api-clinica)
-- [🔧 Em breve: Projetos com React no Front-End!]
-
-
